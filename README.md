@@ -61,6 +61,6 @@ Lista de tecnologías utilizadas en el proyecto:
 Como instalar e inicializar el proyecto:
 ```
 $ git clone https://github.com/FacuNBustos/TrabajoPractico2_plazoFijo-app.git
-$ npm i
-$ npm run dev
+$ yarn install
+$ yarn run dev
 ```
