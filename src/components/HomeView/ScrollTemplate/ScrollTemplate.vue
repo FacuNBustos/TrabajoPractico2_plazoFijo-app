@@ -4,8 +4,7 @@
             <CardTemplate v-if='history' v-for="elem in history" :report='elem' />
         </div>
         <p class="text-xs text-slate-500 text-center">The blue boxes are those that have been selected to reinvest the capital.
-            On the other hand, the green boxes are the ones that have not been selected the same.
-            You can select 1 time each, no more</p>
+            On the other hand, the green boxes are the ones that have not been selected the same.</p>
     </div>
 </template>
 
